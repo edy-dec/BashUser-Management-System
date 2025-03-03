@@ -4,7 +4,7 @@
 
 ## Description
 
-I developed a robust user management system using Bash scripting. This project demonstrates advanced skills in shell programming and Linux system management.
+Developed a robust user management system using Bash scripting. This project demonstrates advanced skills in shell programming and Linux system management.
 
 Key Features
 
